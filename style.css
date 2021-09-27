@@ -30,6 +30,30 @@ h2{
 main{
     border: 10px solid #4285f4;
     width: 220px;
-    ruby-align: center;
     margin: auto;
+}
+
+.north{
+    background-color: #e67676;
+}
+.east{
+    background-color: #f2f062;
+}
+.south{
+    background-color: #a9e6e6;
+}
+.west{
+    background-color: #7692e4;
+}
+
+.north, .east, .west, .south{
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 24px;
+    height: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 25px;
 }

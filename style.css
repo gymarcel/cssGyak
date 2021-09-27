@@ -1,0 +1,35 @@
+div{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+h1{
+    background-color: red;
+    padding: 20px;
+}
+
+h2{
+    background-color: orange;
+    margin: 20px;
+}
+
+.vzl{
+    background-color: #0d91a1;
+    color: #015668;
+    width: 150px;
+    height: 50px;
+    padding: 10px 20px 30px 40px;
+    margin: 20px 100px 20px 100px;
+    border: 5px solid #7dce94;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+main{
+    border: 10px solid #4285f4;
+    width: 220px;
+    ruby-align: center;
+    margin: auto;
+}
